@@ -5,3 +5,4 @@ elif degree >20 and degree <=38:
     print("Normal Weather")
 else:
     print("Hot! Weather")
+    print("Warm Weather")
